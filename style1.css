@@ -1,0 +1,95 @@
+.links{
+    background-color: lightblue;
+    color: blue;
+    border: 0cm ;
+    border-radius: 11px;
+    border-color: darkblue;
+    border-width: 3px;
+    border-style: solid;
+    height: 40px; width: 400px;
+	margin-left:450px;	
+}
+.style{
+    background-color: hotpink;
+    border: 0cm ;
+    border-radius: 11px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 350px;
+margin-bottom:10px;	
+	}
+	
+	#Address{
+		background-color: lightblue;
+    border: 0cm ;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 300px;
+		
+	}
+	#jobprofile{
+		background-color: lightblue;
+    border: 0cm ;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 300px;
+	}
+#Qualification{
+	background-color: lightblue;
+    border: 0cm ;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 300px;
+}
+#skills{
+	background-color: lightblue;
+    border: 0cm ;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 300px;
+}
+#personaldetails{
+	background-color: lightblue;
+    border: 0cm ;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 300px;
+}
+#objective{
+	background-color: lightblue;
+    border: 0cm ;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 300px;
+}
+#strength{
+	background-color: lightblue;
+    border: 0cm ;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 300px;
+}
+#declare{
+	background-color: lightblue;
+    border: 0cm ;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    height: 30px; width: 300px;
+}
